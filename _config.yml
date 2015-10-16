@@ -1,6 +1,6 @@
 name: Uribarri
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9666373385116458
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: sign-ups
     item: null
     url: null
+typography_spectrum: 0.5449796011671424
